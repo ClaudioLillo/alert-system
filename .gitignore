@@ -33,3 +33,6 @@ go.work.sum
 
 # Swagger generated output
 /docs/swagger/
+
+# Worker & Client
+node_modules
